@@ -1,2 +1,3 @@
 STEPS for creating this repository:
 1. Initialized the repository and added README.md, STEPS.md, and a dank meme image.
+2. Created the bug-fix branch and committed bug-fix.txt.
